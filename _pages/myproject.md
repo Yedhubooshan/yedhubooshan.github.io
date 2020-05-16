@@ -2,7 +2,7 @@
 
 layout: archive
 permalink: /my-projects/
-title: "My Projects"
+title: "My Posts"
 author_profile: true
 header:
   image: "images/projectpage.jpg"
