@@ -1,11 +1,11 @@
 ---
 
-layout: archive 
+layout: archive
 permalink: /my-projects/
 title: "My Projects"
 author_profile: true
 header:
-  image: "/images/3.png"
+  image: "images/city.png"
 
 ---
 
