@@ -2,7 +2,7 @@
 
 layout : archive
 permalink: /my-projects/
-title: "check out the posts"
+title: "My Projects"
 author_profile: true
 header:
   image: "images/city.png"
