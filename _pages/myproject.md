@@ -1,7 +1,7 @@
 ---
 
 layout : archive
-permalink: /My-Projects/
+permalink: /my-projects/
 title: "check out the posts"
 author_profile: true
 header:
