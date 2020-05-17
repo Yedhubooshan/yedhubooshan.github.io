@@ -5,7 +5,7 @@ tags: [python,bot]
 excerpt: "Python Installation Guide"
 ---
 
-# Welcome To The PYTHON Installation Guide (windows 7 & Greater)!
+# Welcome To The PYTHON Installation Guide (Windows 7 & Greater)!
 
 ## Just click the link below to get the installation files for Python and Sublime text!
 [CLICK HERE](https://drive.google.com/drive/folders/1S31YqcNyo1PRvnlIyYvlJ5TsFmZzi8sK?usp=sharing)
@@ -13,7 +13,7 @@ excerpt: "Python Installation Guide"
 ## Python 3.8
 1. Run the python-3.8.3.exe file.
 2. Click on **Add Python 3.8 to PATH**
-3. Click on **Customize installation**
+3. Click on **Customize Installation**
 4. Select all features and click next.
 5. Select a specific directory for python (will be helpful while running in cmd).
 6. Create a folder for python and install python3 in the folder!
@@ -53,7 +53,7 @@ Still not working ???
 - Clear the existing code and Paste the Below!
 
 ```json
-	{
+{
 	"cmd":["G:\\py3\\python.exe", "-u", "$file"],
 	 "file_regex": "^[ ]File \"(...?)\", line ([0-9]*)",
  	"selector": "source.python"
@@ -61,7 +61,8 @@ Still not working ???
 
 ```
 ## Note:
-### You should change the file directory to access the python build system! i.e., "G:\\py3\\python.exe" (\\ is essential in Build file)
+### You should change the file directory to access the python app !
+Double slash is mandatory while entering the directory for the build file
 
 - Save the file as newPython3.sublime-build
 - Now, Change the Build System by selecting **newPython3**
