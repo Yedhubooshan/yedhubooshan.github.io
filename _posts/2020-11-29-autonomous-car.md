@@ -2,6 +2,5 @@
 title: "Arduino car"
 date: 2020-11-29
 tags: [Arduino]
-[link](https://yedhubooshan.github.io/autonomous-car/)
 excerpt: "Autonomous Bot"
 ---
